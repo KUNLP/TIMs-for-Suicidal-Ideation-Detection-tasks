@@ -1,0 +1,16 @@
+attrdict
+pandas
+numpy
+tqdm
+fastprogress
+scikit-learn
+transformers==4.43.2 
+sentencepiece
+torch==1.13.0+cu116 -f https://download.pytorch.org/whl/torch_stable.html
+wandb
+seaborn
+sentence-splitter
+matplotlib
+Jinja2
+
+
