@@ -35,7 +35,7 @@ bash g_eval.sh
 ```
 
 ## Citation
----
+
 Please cite as:
 ```
 @article{KIM2026130190,
