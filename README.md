@@ -34,6 +34,9 @@ python run_plm.py --model_name_or_path LLM_NAME --output_dir OUTPUT_DIR --checkp
 bash g_eval.sh
 ```
 
+## Citation
+---
+Please cite as:
 ```
 @article{KIM2026130190,
 title = {Leveraging timeline integration methods for effective suicidal ideation detection},
